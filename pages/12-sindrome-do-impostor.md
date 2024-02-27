@@ -1,0 +1,1 @@
+# Síndrome do impostor
