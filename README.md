@@ -1,6 +1,9 @@
+
+![capa do livro](/src/cover.png "Capa do livro")
+
 # O choro e a alegria de um dev
 
-Esse livro é colaborativo. Caso queira escrever algum capítulo basta preencher o formulario abaixo
+Esse livro é colaborativo. Caso queira escrever algum capítulo basta preencher o formulario abaixo:
 
 [Envie sua historia](https://docs.google.com/forms/d/e/1FAIpQLSdfLAwDK2ny4LI49HVn9CAUBkEfp8nf-p_PBd-OCmgFU80-iQ/viewform?usp=sf_link)
 
