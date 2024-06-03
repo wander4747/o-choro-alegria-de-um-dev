@@ -1,5 +1,5 @@
 
-![capa do livro](/src/cover.png "Capa do livro")
+![capa do livro](/src/cover.jpg "Capa do livro")
 
 # O choro e a alegria de um dev
 
@@ -14,6 +14,8 @@ Esse livro é colaborativo. Caso queira escrever algum capítulo basta preencher
 1. [Apresentação](pages/apresentacao.md)
 2. [Agradecimentos](pages/agradecimentos.md)
 3. [O sonho inocente](pages/1-o-sonho-inocente.md)
+    1. [Da inexperiência à oportunidade](pages/1/da-inexperiencia-a-oportunidade.md)
+    2. [Primeiros dias como dev ](pages/1/primeiros-dias-como-dev.md)
 4. [As primeiras linhas de código](pages/2-as-primeiras-linhas-de-codigo.md)
 5. [Bugs inofensivos e risadas](pages/3-bugs-inofensivos-e-risadas.md)
 6. [Quando tudo dá errado](pages/4-quando-tudo-da-errado.md)
@@ -26,6 +28,7 @@ Esse livro é colaborativo. Caso queira escrever algum capítulo basta preencher
 13. [As noites sem dormir](pages/11-as-noites-sem-dormir.md)
 14. [Síndrome do impostor](pages/12-sindrome-do-impostor.md)
 15. [Aleatórios](pages/13-aleatorios.md)
+    1. [O dia do vinho](pages/13/o-dia-do-vinho.md)
 
 
 -- --
@@ -38,4 +41,6 @@ Esse livro é colaborativo. Caso queira escrever algum capítulo basta preencher
 > Diego Santos **[Github](https://github.com/DiegoSantosWS) [Linkedin](https://www.linkedin.com/in/diegosantosws)**
 
 > Eduardo Figueiredo **[Github](https://github.com/eduardofg87) [Linkedin](https://www.linkedin.com/in/eduardofg87)**
+
+> Uziel Santana **[LinkedIn](https://www.linkedin.com/in/uzielsantanna/)**
 

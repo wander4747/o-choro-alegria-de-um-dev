@@ -1,6 +1,6 @@
 # O Sonho inocente
 
-#### Da inexperiência à oportunidade
+### Da inexperiência à oportunidade
 
 Em 2012, iniciei a faculdade em Sistemas para Internet. Não conhecia NADA da área de TI. Entrei literalmente de paraquedas. Não sabia nada mesmo. Era jovem e não sabia o que queria da vida.
 
@@ -63,8 +63,3 @@ Chegando na empresa, procurei o Fulano e esperei um pouco.
 Por dentro, eu estava muito feliz. Tinha me dedicado freneticamente e aprendido muita coisa em 2 meses.
 
 Esse foi meu primeiro sim na área de desenvolvimento.
-
-
-
-
-
